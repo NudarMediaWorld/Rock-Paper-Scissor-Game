@@ -1,73 +1,34 @@
-![alt text](screenshot-desktop.png)
+# Frontend Mentor - Rock, Paper, Scissors
 
-# Frontend Mentor - Rock, Paper, Scissors solution
+![Header/intro section for the Huddle landing page with single column layout](./design/desktop-preview.jpg)
 
-This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+## Welcome! 👋
 
-## Table of contents
+Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉 Coded by [Nitya Gulati](https://nityagulati.github.io).
 
-- [Frontend Mentor - Rock, Paper, Scissors solution](#frontend-mentor---rock-paper-scissors-solution)
-  - [Table of contents](#table-of-contents)
-  - [The challenge](#the-challenge)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
-  - [Acknowledgments](#acknowledgments)
+[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
+**To do these challenges, you need a basic understanding of HTML, CSS and JavaScript.**
 
-## The challenge
+## Where to find everything
 
-Users should be able to:
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
 
-- View the optimal layout for the game depending on their device's screen size
-- Play Rock, Paper, Scissors against the computer
-- Maintain the state of the score after refreshing the browser _(optional)_
-- **Bonus**: Play Rock, Paper, Scissors, Lizard, Spock against the computer _(optional)_
+You can access all the required assets and the style guide on the Frontend Mentor [website](https://www.frontendmentor.io).
 
+## Sharing your solution
 
-## My process
+There are multiple places you can share your solution:
 
-### Built with
+1. Submit it on the platform so that other users will see your solution on the site. Other users will be able to give you feedback, which could help improve your code for the next project.
+2. Share your repository and live URL in the **#finished-projects** channel of the Slack community.
+3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 
-- Semantic HTML5 markup
-- Pures CSS
-- Flexbox
-- Mobile-first workflow
+## Giving feedback
 
-## Installation
+Feedback is always welcome, so if you have any on this challenge please email **Matt** at matt[at]frontendmentor[dot]io.
 
-To get started with this project:
+This challenge is completely free. Please share it with anyone who will find it useful to practice on.
 
-1. Download or clone the repository.
-2. Open the project folder in your preferred code editor.
+**Have fun building!** 🚀
 
-## Usage
-
-- Open `index.html` in your preferred browser to view the blog preview page.
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See [LICENSE]() for more information.
-
-## Contact
-
-Let's connect on social media - [Click here](https://nudarmediaworld.github.io/Web3Bridge-Assignment-4--Social-Links-Profile/) to connect.
-
-## Acknowledgments
-
-- Special thanks to [Web3Bridge](https://www.web3bridgeafrica.com/) for guidance and support.
-- Special thanks to [BlackAdam](https://github.com/Ultra-Tech-code) for providing this front-end coding challenge.
